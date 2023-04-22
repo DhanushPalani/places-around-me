@@ -19,30 +19,26 @@ map.html
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>My City</title>
+        <title>MAT MAP</title>
     </head>
     <body>
-        <h1 align="center">
-            <font color="violet">Tirupattur-Sandal City</b></font>
-        </h1>
-        <h3 align="center">
-            <font color="blue">Dhanush P(212222040034)</b></font>
-        </h3>
-        <center>
-            <img src="/static/images/places1.png"usemap="#MyCity" heigth="420"width="1100">
-            <map name="Sandal City">
-            <area shape="circle"coords="190,50,20"href="/static/html/bus.html"title="Bus Stand">
-            <area shape="rectangle"coords="230,30,260,60"href="/static/html/college.html"title="Sacred Heart College">
-            <area shape="circle"coords="400,350,50"href="/static/html/home.html"title="My Home">
-            <area shape="rectangle"coords="400,200,75"href="/static/html/hotel.html"title="Hotel Hills">
-            <area shape="circle"coords="490,150,870,320"href="/static/html/map.html"title="My Map">
-            <area shape="rectangle"coords="400,200,75"href="/static/html/school.html"title="My School">
-            </map>
-        </center>
-    </body>
-</bg>
-</html>
+        <img src="/static/images/places1.png" width ="1920" height="911" usemap="#places1" alt>
+        <MAP name="places1">
+             <AREA shape="RECT" coords="1212,129,1250,135"
+                   href = "/static/html/bus.html" Title="Bus Stop" alt>
+             <AREA shape="RECT" coords="932,161,1135,138"
+                   href = "/static/html/college.html" Title="Sacred Heart College" alt>
+             <AREA shape="RECT" coords="979,387,1011,390"
+                   href = "/static/html/hotel.html" Title="Hotel Hills" alt>
+             <AREA shape="RECT"  coords="879,481,922,482"
+                   href = "/static/html/school.html"   Title="Vijay shanthi School" alt>
+             <AREA shape="RECT"  coords="986,330,1182,331"
+                   href = "/static/html/theater.html"  Title="Thirumagal Theater" alt>
+         
+        </MAP>
 
+    </body>
+</html>
 bus.html
 
 <!DOCTYPE html>
@@ -73,7 +69,9 @@ bus.html
 </p>
 </body>
 </html>
+
 theater.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -171,7 +169,7 @@ college.html
 </body>
 </html>
 
-hotrl.html
+hotel.html
 <!DOCTYPE html>
 <html>
 <head>
