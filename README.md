@@ -73,38 +73,38 @@ bus.html
 </p>
 </body>
 </html>
-
-home.html
-
+theater.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>
-        HOME
+        THEATER
     </title>
 </head>
 <body bgcolor="pink">
 <h1 align="center">
     <font color="blue" face="cursive">
-        MY HOME
+        THIRUMAGAL THEATER
     </font>
 </h1>
 <p align="center">
     <font color="black" face="Comic Sans MS" size="24">
         <OL  TYPE="1" START="1">
-            <LI> My home is situated in the city.<br></LI> 
-            <LI>This is my home where I live very happy and that gives very comfort to me.<br></LI>   
-            <LI>My mother and Father take cares of me and I have fun with my sister and my friends<br></LI>
-            <LI>A full of happiness surrounding my home.<br></LI>
-            <LI>When I feel lonely, I join with my friends and play happy with my street friends.<br></LI>
+            <LI>This Thirumali Theater.<br></LI> 
+            <LI>We are going to theater every week end and fun with friends.<br></LI>   
+            <LI>This theater is very neat and fully furnish<br></LI>
+            <LI>This theater is very expensive.<br></LI>
+            <LI>The theater have 3d glass vision.<br></LI>
         </OL>
     </font>
     <font color ="orange" face = "cursive" size="16" > 
-    "HOME IS WHERE OUR STORY BEGINS"
+    "Entertainment begins everywhere"
     </font>
 </p>
 </body>
 </html>
+
+
 
 school.html
 
