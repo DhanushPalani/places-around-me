@@ -219,7 +219,8 @@ hotrl.html
 ![output](./screenshots/school.png)
 
 ## HTML Validator
-![HTML Validator](./screenshots/validity.png)
+![Screenshot 2023-04-22 111622](https://user-images.githubusercontent.com/121594640/233768350-fec9d085-792a-45d5-af3b-cfcf624a5d51.png)
+
 
 ## Result:
 The program for implementing image map is executed successfully
