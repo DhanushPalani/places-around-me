@@ -205,6 +205,8 @@ hotel.html
 
 ## Output:
 
+![output](./screenshots/map.png)
+
 ![output](./screenshots/bus.png)
 
 ![output](./screenshots/college.png)
@@ -212,8 +214,6 @@ hotel.html
 ![output](./screenshots/home.png)
 
 ![output](./screenshots/hostel.png)
-
-![output](./screenshots/map.png)
 
 ![output](./screenshots/school.png)
 
