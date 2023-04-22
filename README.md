@@ -204,16 +204,17 @@ hotel.html
 
 
 ## Output:
+###Bus Stand
 ![output](./screenshots/bus.png)
-
+###College
 ![output](./screenshots/college.png)
-
+###Home
 ![output](./screenshots/home.png)
-
+###Hotel
 ![output](./screenshots/hostel.png)
-
+###Map
 ![output](./screenshots/map.png)
-
+###School
 ![output](./screenshots/school.png)
 
 ## HTML Validator
